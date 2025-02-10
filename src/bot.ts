@@ -22,7 +22,7 @@ export class Bot extends Client {
         await this.application!.commands.set(Object.values(this.commands) as any)
       }
 
-			client.user.setPresence({status: 'online', afk: false, activities: [{ type: ActivityType.Listening, name: 'Biden'}]})
+			client.user.setPresence({status: 'online', afk: false, activities: [{ type: ActivityType.Listening, name: 'Music'}]})
 			console.log("Ready as %s", client.user.username)
 		})
 		
