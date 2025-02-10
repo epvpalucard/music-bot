@@ -33,7 +33,7 @@ docker run -d --env DC_TOKEN=<Your token here> --env DC_REGISTER=1 ghcr.io/varma
 #### Building the image
 2. Clone the repository on your system
 ```
-git clone https://github.com/varma02/GenericMusicBot3.git
+git clone [https://github.com/epvpalucard/music-bot]
 ```
 3. Build the Docker image (you have to be in the cloned directory)
 ```
