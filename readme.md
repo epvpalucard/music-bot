@@ -59,7 +59,7 @@ python3 -m pip install -U yt-dlp
 ```
 3. Clone the repository on your system
 ```
-git clone https://github.com/varma02/GenericMusicBot3.git
+git clone [https://github.com/epvpalucard/music-bot.git]
 ```
 4. Create a `.env` and add your token
 5. Run `npm install` to install dependencies
